@@ -8,4 +8,4 @@ We are a group of analytically oriented junior faculty, postdocs, and students, 
 
 # Objectives
 
-The central goal of our interest group is to read genomics and proteomics articles and focus on their methodologies. We will dig deep into supplementary methods and may not even get to Figure 5. 
+The central goal of our interest group is to read genomics and proteomics articles and focus on their methodologies. We will dig deep into supplementary methods and may not even get to Figure 5. We will meet on Mondays 9-10am in 301 BRB. 
